@@ -1,9 +1,5 @@
 # 🔥 CyberHack Hackathon - Problem Statement 1 🚀  
 
-![GitHub repo size](https://img.shields.io/github/repo-size/aditya-joshi/cyberhack-project?color=blue&label=Repo%20Size)
-![GitHub last commit](https://img.shields.io/github/last-commit/aditya-joshi/cyberhack-project?color=green&label=Last%20Commit)
-![GitHub stars](https://img.shields.io/github/stars/aditya-joshi/cyberhack-project?style=social)
-
 ## 🏆 About the Project  
 
 This repository contains our **innovative solution** developed for **Problem Statement 1** in the **CyberHack Hackathon**. Our team has collaborated to create a **cutting-edge approach** 🛡️ to tackle the challenge, showcasing our **technical expertise** and **problem-solving capabilities**.  
